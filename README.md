@@ -79,3 +79,54 @@ Overall, the Resident Coordinator system is vital for maximizing the gains made 
 总体而言，驻地协调员制度对于最大化投资于振兴的发展协调系统所取得的成果至关重要。它能够汇集所有联合国实体和合作伙伴的专业知识，并利用大规模的融资为实现目标，这对于推动可持续发展和实现2030年议程中设定的目标至关重要[37b]。
 
 ---
+
+**How does the Resident Coordinator system ensure effective collaboration among United Nations entities at the country level for sustainable development?**
+
+The Resident Coordinator system, consisting of Resident Coordinators and their offices at the country level, ensures effective collaboration among United Nations entities for sustainable development through various mechanisms. Firstly, Resident Coordinators are tasked with leading United Nations country teams, fostering independent, impartial, and empowered coordination and leadership to ensure more effective, efficient, and transparent collaboration among the entities [42]. They work towards aligning efforts to support national plans and priorities, providing strategic support for the advancement of the 2030 Agenda for Sustainable Development and the achievement of the Sustainable Development Goals [3a].
+
+The system also aims to leverage the expertise of all United Nations entities and partners, forging partnerships and mobilizing funding at scale for joint action towards the Goals [37]. Through surveys and evaluations, it has been validated that Resident Coordinators have played a crucial role in strengthening collaboration among different stakeholders, increasing their ability to serve as an entry point to the United Nations offer, and effectively delivering strategic support for national development plans and priorities [1].
+
+Moreover, the Resident Coordinator system serves as a convenor and neutral arbiter at the country level, bringing together national, regional, and global resources around global summits and coordinating with other lead United Nations entities on key agendas such as climate action, education, food systems, and urban development [24]. By ensuring coherence, minimizing duplication of efforts, and advancing the efficient use of resources, the system has been instrumental in catalyzing joint programming for sustainable results [3b].
+
+In summary, the Resident Coordinator system fosters effective collaboration among United Nations entities by providing leadership, coordination, and strategic support at the country level, thereby maximizing the impact of collective efforts towards sustainable development.
+
+驻地协调员制度，由驻地协调员及其在国家层面的办公室组成，通过各种机制确保联合国实体之间为可持续发展进行有效合作。首先，驻地协调员负责领导联合国国家团队，促进独立、公正、授权的协调和领导，以确保实体之间的合作更有效、高效和透明[42]。他们致力于使努力与支持国家计划和优先事项相一致，为推进2030年可持续发展议程和实现可持续发展目标提供战略支持[3a]。
+该制度还旨在利用所有联合国实体和合作伙伴的专业知识，建立伙伴关系，并为实现目标的联合行动动员大规模资金[37]。通过调查和评估，已经验证了驻地协调员在加强不同利益相关者之间的合作、增加他们作为联合国提供服务的入口点的能力，以及有效地为国家发展计划和优先事项提供战略支持方面发挥了关键作用[1]。
+此外，驻地协调员制度在国家层面充当召集人和中立仲裁者，汇集国家、区域和全球资源围绕全球峰会，并就气候行动、教育、食品系统和城市发展等关键议程与其他主要联合国实体进行协调[24]。通过确保一致性，最小化工作重复，并推进资源的有效使用，该制度在促进可持续成果的联合规划方面发挥了重要作用[3b]。
+总结来说，驻地协调员制度通过在国家层面提供领导、协调和战略支持，促进了联合国实体之间的有效合作，从而最大化了集体努力对可持续发展的影响。
+
+---
+
+**Can you provide examples of successful partnerships and joint actions facilitated by the Resident Coordinator system to advance the Sustainable Development Goals?**
+
+The Resident Coordinator system has facilitated several successful partnerships and joint actions to advance the Sustainable Development Goals. One such example is in Brazil, where the resident coordinator led country team members in a partnership with the Interstate Consortium for Sustainable Development of the Legal Amazon Region to develop a programmatic and financial mechanism for sustainable development that reached 29 million people in one of the country's poorest regions [28].
+
+In South Africa, the resident coordinator office scaled up engagements with authorities, international financial institutions, and other partners to ensure all communities benefitted from the Just Energy Transition Partnership established to decarbonize the economy and minimize the social costs of the transition [28].
+
+Additionally, in Kenya, the Government's Sustainable Development Goals partnership platform, hosted in the resident coordinator office, led to the launch of the world's first development impact bond for adolescent reproductive and sexual health, identified a $6 billion bankable market opportunity attracting international private sector investments, upgraded public health clinics, and expanded health insurance coverage [28].
+
+These examples illustrate how the Resident Coordinator system has successfully facilitated partnerships and joint actions to advance the Sustainable Development Goals in various countries.
+
+驻地协调员制度促进了多个成功的伙伴关系和联合行动，以推进可持续发展目标。一个例子是在巴西，驻地协调员领导国家团队成员与亚马逊地区可持续发展州际联盟建立了伙伴关系，为该国最贫困地区之一的2900万人开发了可持续发展的方案和财政机制[28]。
+在南非，驻地协调员办公室加强了与当局、国际金融机构和其他合作伙伴的接触，以确保所有社区都能从为经济脱碳并最小化过渡社会成本而建立的公正能源转型伙伴关系中受益[28]。
+此外，在肯尼亚，政府的可持续发展目标伙伴关系平台设在驻地协调员办公室，促成了世界上首个针对青少年生殖和性健康的发展影响债券的发行，识别了一个吸引国际私营部门投资的60亿美元的可融资市场机会，升级了公共卫生诊所，并扩大了健康保险覆盖范围[28]。
+这些例子说明了驻地协调员制度如何成功地促进了伙伴关系和联合行动，在不同国家推进了可持续发展目标。
+
+---
+
+**What role does the Resident Coordinator system play in achieving the transformation of food systems, education, and climate action?**
+
+The Resident Coordinator system plays a crucial role in achieving the transformation of food systems, education, and climate action through its leadership, coordination, and mobilization of resources at the country level [24]. In the context of food systems transformation, resident coordinators work with the Food Systems Coordination Hub and its regional task forces to implement national pathways following the Food Systems Summit [24]. They also support the inclusion of ocean priorities in global agendas, such as the Group of 20 agenda, leading to the adoption of national blue agenda action partnerships [24].
+
+In terms of education transformation, resident coordinators in various countries collaborate with organizations like UNESCO and UNICEF to mobilize stakeholders and inform national positions, resulting in the endorsement of national policy positions on education and linkages with digital education plans [24]. They also facilitate the creation of social compacts around education that address various national challenges such as climate, migration, and gender [24].
+
+Regarding climate action, resident coordinators play a pivotal role in preparations for global summits like the Conference of the Parties to the UN Framework Convention on Climate Change. They work closely with the Secretary-General's climate team and other key entities to ensure effective coordination and mobilization of resources for climate initiatives [24]. Additionally, resident coordinators engage in discussions and partnerships related to climate and sustainability at events like the World Urban Forum [24].
+
+Overall, the Resident Coordinator system acts as a key convener, connector, and mobilizer of resources for sustainable development initiatives, playing a critical role in driving transformational change in food systems, education, and climate action at the country level.
+
+
+驻地协调员制度在实现食品系统、教育和气候行动的转型中发挥着关键作用，它通过在国家层面的领导、协调和动员资源来实现这一点[24]。在食品系统转型的背景下，驻地协调员与食品系统协调中心及其区域工作组合作，根据食品系统峰会实施国家路径[24]。他们还支持将海洋优先事项纳入全球议程，如20国集团议程，从而促成国家蓝色议程行动伙伴关系的采纳[24]。
+在教育转型方面，各国驻地协调员与教科文组织和联合国儿童基金会等组织合作，动员利益相关者并通报国家立场，从而支持对教育的国家政策立场的批准以及与数字教育计划的联系[24]。他们还促进围绕教育创建社会契约，解决各种国家挑战，如气候、移民和性别[24]。
+在气候行动方面，驻地协调员在全球峰会的准备工作中发挥关键作用，如联合国气候变化框架公约的缔约方大会。他们与秘书长的气候团队和其他主要实体密切合作，确保气候倡议的有效协调和资源动员[24]。此外，驻地协调员还参与与气候和可持续相关的讨论和伙伴关系，如在世界城市论坛等活动中[24]。
+总体而言，驻地协调员制度作为可持续发展倡议的关键召集人、联络人和资源动员者，在推动国家层面食品系统、教育和气候行动转型变革中发挥着至关重要的作用。
+
