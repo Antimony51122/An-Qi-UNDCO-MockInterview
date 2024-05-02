@@ -23,3 +23,40 @@ Overall, through tailored cooperation frameworks, strengthened partnerships, and
 总体而言，通过定制的合作框架、加强伙伴关系以及改善联合国实体的参与，联合国的援助方案已经更好地定制，以满足小岛屿发展中国家和最不发达国家的具体需求和优先事项，为这些国家环境带来了更有效和可持续的发展成果。
 
 ---
+
+**How do resident coordinators champion gender equality and women's rights within the United Nations framework, as highlighted in the article?**
+
+Resident coordinators play a crucial role in championing gender equality and women's rights within the United Nations framework by actively promoting these principles in various ways:
+
+1. **Integration into Cooperation Frameworks:** Resident coordinators ensure that gender equality results are featured in over 70 cooperation frameworks and are mainstreamed across other priorities [25].
+
+2. **Financial Allocation:** A significant portion (44%) of country team joint programme budgets are directed towards advancing gender equality and women's empowerment [25].
+
+3. **Marker Utilization:** Resident coordinators use a gender equality marker in joint workplans in 69% of country teams, indicating a deliberate focus on advancing gender equality [25].
+
+4. **Reporting and Evaluation:** A substantial number of country teams (76) report on the System-wide Action Plan gender equality scorecard, showcasing transparency and accountability in promoting gender equality [25].
+
+5. **Leadership and Support:** Resident coordinators actively support the roll-out of new standard operating procedures to strengthen gender theme groups in country teams in partnership with UN-Women, ensuring systematic support for the Spotlight Initiative at the country level [25].
+
+6. **Collaborative Efforts:** By collaborating with various UN agencies like ILO, UNDP, UNESCO, UNFPA, and UNICEF, resident coordinators have been instrumental in reaching millions of beneficiaries, establishing national prevention mechanisms, bringing perpetrators to justice, and winning awards for their efforts [25].
+
+Overall, resident coordinators demonstrate leadership, advocacy, and strategic planning to advance gender equality and women's rights within the UN framework, fostering a more inclusive and equitable world.
+
+驻地协调员在联合国框架内倡导性别平等和妇女权利方面发挥着至关重要的作用，他们通过各种方式积极推动这些原则：
+
+1. **融入合作框架：**驻地协调员确保超过70个合作框架中突出性别平等的成果，并将性别平等纳入其他优先事项的主流[25]。
+
+2. **资金分配：**国家团队联合方案预算中有相当大的一部分（44%）被用于推进性别平等和妇女赋权[25]。
+
+3. **标记使用：**在69%的国家团队中，驻地协调员在联合工作计划中使用性别平等标记，表明他们有意识地专注于推进性别平等[25]。
+
+4. **报告和评估：**相当多的国家团队（76个）在全系统性别平等行动计划记分卡上进行报告，展示了在促进性别平等方面的透明度和问责制[25]。
+
+5. **领导和支持：**驻地协调员积极支持推出新的标准操作程序，以加强国家团队中的性别主题小组，并与联合国妇女署合作，确保在国家层面系统性地支持Spotlight倡议[25]。
+
+6. **合作努力：**通过与国际劳工组织（ILO）、联合国开发计划署（UNDP）、联合国教科文组织（UNESCO）、联合国人口基金（UNFPA）和联合国儿童基金会（UNICEF）等不同的联合国机构合作，驻地协调员在触及数百万受益者、建立国家预防机制、将犯罪者绳之以法以及因其努力获得奖项方面发挥了重要作用[25]。
+
+总体而言，驻地协调员展现了领导力、倡导力和战略规划，以在联合国框架内推进性别平等和妇女权利，促进一个更具包容性和公平性的世界。
+
+---
+
