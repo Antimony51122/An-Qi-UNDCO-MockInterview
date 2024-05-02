@@ -60,3 +60,22 @@ Overall, resident coordinators demonstrate leadership, advocacy, and strategic p
 
 ---
 
+## RC System Part
+
+**What is the Resident Coordinator system and why is it important for sustainable development?**
+
+The Resident Coordinator system is a key component of the United Nations development system, consisting of Resident Coordinators and their offices at the country level, as well as the Development Coordination Office. The main purpose of the Resident Coordinator system is to ensure that the United Nations development system works together effectively, efficiently, and transparently to support national efforts in advancing the 2030 Agenda for Sustainable Development and achieving the Sustainable Development Goals [42].
+
+The Resident Coordinator system is important for sustainable development because it serves as a means to an end, providing independent, impartial, and empowered coordination and leadership in order to drive collective action towards achieving sustainable results [42]. The system plays a crucial role in leading United Nations country teams, forging partnerships, and mobilizing funding for integrated support to advance national plans and priorities [3]. Additionally, the Resident Coordinator system is essential for accelerating action, enabling catalytic transitions, and realigning financing for development, all of which are necessary for achieving the Sustainable Development Goals [37a].
+
+Overall, the Resident Coordinator system is vital for maximizing the gains made in investing in a reinvigorated coordination system for development. Its ability to bring together the expertise of all United Nations entities and partners, as well as to leverage financing for the Goals at scale, is crucial for driving sustainable development and achieving the goals set out in the 2030 Agenda [37b].
+
+驻地协调员制度是什么，它为什么对可持续发展至关重要？
+
+驻地协调员制度是联合国发展系统的关键组成部分，包括在国家层面的驻地协调员及其办公室，以及发展协调办公室。驻地协调员制度的主要目的是确保联合国发展系统有效、高效、透明地协同工作，以支持国家努力推进2030年可持续发展议程和实现可持续发展目标[42]。
+
+驻地协调员制度对可持续发展至关重要，因为它是一种手段，提供独立、公正、授权的协调和领导，以推动集体行动，实现可持续成果[42]。该制度在领导联合国国家团队、建立伙伴关系和动员资金以综合支持推进国家计划和优先事项方面发挥着关键作用[3]。此外，驻地协调员制度对于加快行动、促进催化转型和重新调整发展融资至关重要，所有这些都是实现可持续发展目标所必需的[37a]。
+
+总体而言，驻地协调员制度对于最大化投资于振兴的发展协调系统所取得的成果至关重要。它能够汇集所有联合国实体和合作伙伴的专业知识，并利用大规模的融资为实现目标，这对于推动可持续发展和实现2030年议程中设定的目标至关重要[37b]。
+
+---
